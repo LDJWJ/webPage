@@ -1,3 +1,5 @@
 # web page url
 
-https://pythonstart.github.io/web/
+
+# 현재 페이지 : https://ldjwj.github.io/webPage/
+# 다른곳 웹 작업 : https://pythonstart.github.io/web/
